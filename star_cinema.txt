@@ -1,0 +1,32 @@
+#Entities
+    1. Star Cinema
+    2. Hall
+
+#Functionality:
+    1. entry hall
+    2. entry show
+    3. book seats
+    4. view show list
+    5. view available seats
+
+
+    #Star Cinema Class
+        #Attribute
+            1. hall_list[]
+        
+        #Method
+            1. entry_hall
+
+    #Hall
+        #Attribute
+            1. seats[]
+            2. show_list []
+            3. rows
+            4. cols
+            5. hall_no
+        #Method
+            1. entry show
+            2. book seats
+            3. view show list
+            4. view available seats
+            
